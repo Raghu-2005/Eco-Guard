@@ -56,7 +56,7 @@ Once installed, users can access the EcoGuard platform through their web browser
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/raghu2005/ecoguard.git
+    git clone https://github.com/raghu2005/EcoGuard.git
     cd ecoguard
     ```
 
